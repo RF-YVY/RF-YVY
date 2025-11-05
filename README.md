@@ -9,7 +9,7 @@ Casual coder that forgot everything from school.
 I went to college +20 years ago for computer programming, life took a different direction and I did not practice any coding since. Now I "vibe" code, or code with AI, to help me get back into it casually. Projects you will find here are just ideas I had related to my radio hobby, or ideas to make my work flow a little easier.
 
 * 🌍  I'm based in Mississippi
-* 🖥️  See my portfolio at [My Links](http://bio.link/k5yvy)
+* 🖥️  See my social links at [My Links](http://bio.link/k5yvy)
 * ✉️  You can contact me at [k5yvy.radio@gmail.com](mailto:k5yvy.radio@gmail.com)
 * 💬  I'm just more of a hobbist, most things I make for my github are just for me, but shared incase anyone else could use it. Expect things to be broken, buggy, but evolving as I go.
 
